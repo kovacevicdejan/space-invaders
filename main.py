@@ -1,4 +1,3 @@
-from curses import KEY_ENTER
 import pygame
 from sys import exit
 from random import randint
